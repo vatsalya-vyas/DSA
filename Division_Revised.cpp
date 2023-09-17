@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    int dividend = 15;
-    int divisor = 3;
+    int dividend = 3;
+    int divisor = 15;
     int quotient = dividend / divisor;
     int remainder = dividend % divisor;
 
