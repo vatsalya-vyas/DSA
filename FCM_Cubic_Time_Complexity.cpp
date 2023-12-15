@@ -15,8 +15,7 @@ void multiplyMatrices(int matrixA[][2], int matrixB[][2], int result[][2])
     }
 }
 
-int main()
-{
+int main(){
     int matrixA[2][2] = {{1, 2}, {3, 4}};
     int matrixB[2][2] = {{5, 6}, {7, 8}};
     int result[2][2] = {{0, 0}, {0, 0}};
